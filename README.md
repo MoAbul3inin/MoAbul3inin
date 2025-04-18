@@ -66,7 +66,7 @@ skills in R (especially Shiny), PostgreSQL, and data storytelling.
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/your-link/)
-- Email: m.abderrahman98@gmail.com
+  
 
 ---------
 
