@@ -46,6 +46,24 @@ skills in R (especially Shiny), PostgreSQL, and data storytelling.
 - Active team member at **Professional Profile Analytics (PPA)**
 - Learning path: *Mastering Shiny* by Hadley Wickham
 
+## Courses and Certifications
+-Principles of Management. (The Johns Hopkins University)  Feb.2024
+
+-High-Impact Business Writing. (University of California)  Mar.2024
+
+-Understanding Prompt Engineering. (DataCamp)  Oct.2024
+
+-The Pefect Persentation. (Almentor)  Nov.2024
+
+-Business Etiquette Essentials. (Almentor) Nov.2024
+
+-Data Analyst in SQL Track. -11 Courses- (DataCamp) Jan.2025
+
+-SQL Fundamentals Track.  -7 Courses-  (DataCamp)  Feb.2025
+
+-Data Innovation for Development: Civic Participationfor Social Good & Well-Being.  (ADBI)  Apr.2025
+
+
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/your-link/)
 - Email: m.abderrahman98@gmail.com
