@@ -8,7 +8,7 @@ I’m passionate about turning data into insights, building interactive dashboar
 skills in R (especially Shiny), PostgreSQL, and data storytelling.
 
 ## 🚀 Current Projects
-- **Professional Profile Analytics Shiny App**
+- **Professional Profile Analytics App**
 
  **My Role**
 
