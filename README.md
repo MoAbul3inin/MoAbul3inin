@@ -9,7 +9,7 @@ skills in R (especially Shiny), PostgreSQL, and data storytelling.
 
 ## 🚀 Current Projects
 - **Professional Profile Analytics App**
-
+   ( Mar 2025 - Present )
  **My Role**
 
 • Turn raw LinkedIn data into clean, insightful dashboards using R and Shiny.
