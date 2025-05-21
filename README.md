@@ -20,6 +20,8 @@ skills in R (especially Shiny), PostgreSQL, and data storytelling.
 
 • Translate numbers into stories that drive better content and personal branding strategies.
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 **Achievements**
 
 • Got up to speed quickly with RStudio, Git, and Shiny, delivering polished outputs within my first month.
